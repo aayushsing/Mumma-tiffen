@@ -1,0 +1,7 @@
+# Mumma Tiffin Environment Configuration
+
+# Secret key for signing login tokens
+JWT_SECRET=mummasecretkey
+
+# Default port for local development
+PORT=3000
